@@ -1,3 +1,5 @@
+//https://contest.yandex.ru/contest/35212/run-report/66291901/
+
 #include <iostream>
 #include <string>
 #include <vector>
